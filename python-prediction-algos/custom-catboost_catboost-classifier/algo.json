@@ -2,7 +2,7 @@
 {
     "meta" : {
         // label: name of the algorithm as displayed, should be short
-        "label": "Custom algo custom-catboost_catboost-classifier",
+        "label": "Custom algo custom-catboost-classifier",
 
         // description: longer string to help end users understand what this algorithm is. Will be displayed in the algorithm page
         "description": "This is the description of the Custom algo custom-catboost_catboost-classifier",
