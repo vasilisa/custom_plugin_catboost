@@ -1,4 +1,4 @@
-# This file is the actual code for the custom Python algorithm custom-catboost_catboost-classifier
+# This file is the actual code for the custom Python algorithm custom-catboost-classifier
 from dataiku.doctor.plugins.custom_prediction_algorithm import BaseCustomPredictionAlgorithm
 from catboost import CatBoostClassifier
 
