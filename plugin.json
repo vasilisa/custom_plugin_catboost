@@ -11,7 +11,7 @@
         "label": "Custom catboost",
 
         // description: longer string to help end users understand what this plugin does
-        "description": "",
+        "description": "A scikit-learn algorithm to run regression and classification using CatBoost",
 
         "author": "admin",
 
@@ -19,7 +19,7 @@
         "icon": "icon-github-alt",
 
         // List of tags for filtering the list of plugins
-        "tags": [], //for example: ["Machine Learning", "NLP"]
+        "tags": ["Machine Learning"], //for example: ["Machine Learning", "NLP"]
 
         // URL where the user can learn more about the plugin
         "url": "",
