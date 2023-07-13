@@ -22,7 +22,7 @@
         "tags": ["Machine Learning"], //for example: ["Machine Learning", "NLP"]
 
         // URL where the user can learn more about the plugin
-        "url": "",
+        "url": "https://github.com/vasilisa/custom_plugin_catboost/tree/master",
 
         "licenseInfo": "Apache Software License"
     }
