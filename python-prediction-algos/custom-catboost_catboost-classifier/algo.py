@@ -4,7 +4,7 @@ from catboost import CatBoostClassifier
 
 class CustomPredictionAlgorithm(BaseCustomPredictionAlgorithm):    
     """
-        Class defining the behaviour of `custom-catboost_catboost-classifier` algorithm:
+        Class defining the behaviour of `custom-catboost-classifier` algorithm:
         - how it handles parameters passed to it
         - how the estimator works
 
