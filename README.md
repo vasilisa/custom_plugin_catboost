@@ -8,7 +8,7 @@ This allows to:
 
 ## Example with Catboost model 
 ## Prerequisites
-- you need to create an ```code-env``` with catboost and make it available as part of your lab running environment in Dataiku
+- you need to create a ```code-env``` with catboost and make it available as part of your lab running environment in Dataiku
 - No need to create a special code environment within the plugin
 
 ### Steps to create a plugin: 
