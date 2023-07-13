@@ -26,3 +26,4 @@ This allows to:
 
 ### More information on plugin development tutorials [here](https://knowledge.dataiku.com/latest/plugins/development/index.html)
 ### Git with developed and approved by Dataiku plugins [here](https://github.com/dataiku/dataiku-contrib)
+### For more advanced custom model development as a plugin see Generalizied Linear Model plugin git [here](https://github.com/dataiku/dss-plugin-generalized-linear-models)
