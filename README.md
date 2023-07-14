@@ -7,11 +7,11 @@ This allows to:
 - Use hyperparameter optimisation which is not accessible if you create a custom Python model in the lab directly 
 
 ## Example with Catboost model 
-## Prerequisites
+**Prerequisites**
 - you need to create a ```code-env``` with catboost and make it available as part of your lab running environment in Dataiku
 - No need to create a special code environment within the plugin
 
-### Steps to create a plugin: 
+**Steps to create a plugin**: 
 
 1. Go to Administration -> Plugins -> Plugin Development
 2. Initiate a new component 
